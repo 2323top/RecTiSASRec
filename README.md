@@ -1,7 +1,7 @@
 ****************************
 
 【手动狗头】此文档为拷贝ReChorus项目做课程复现作业，仅作学习用途使用，不会使用至商业用途。
-原项目地址为https://github.com/THUwangcy/ReChorus，无意冒犯！
+原项目地址为  https://github.com/THUwangcy/ReChorus  ，无意冒犯！
 
 ****************************
 
